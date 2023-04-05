@@ -1,5 +1,5 @@
 ## 원본 사이트: https://readcereal.com/
-## 과제 사이트: https://snazzy-panda-830a31.netlify.app/
+## 클론코딩 : https://snazzy-panda-830a31.netlify.app/
 # 상세설명
 
 - 멋진 사진이 가득한 잡지사 사이트를 클론코딩 했습니다.
